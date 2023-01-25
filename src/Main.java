@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         task1();
+        task2();
     }
     public static void task1 () {
         System.out.println("Задача 1");
@@ -18,4 +19,22 @@ public class Main {
         double six = 5.478653148;
         System.out.println("Значение переменной six с типом duoble равно " + six);
             }
+    public static void task2 () {
+        System.out.println("Задача 2");
+        // write your code here
+        float one = (float) 27.12;
+        System.out.println(one);
+        long two = 987678965549L;
+        System.out.println(two);
+        double three = 2.786;
+        System.out.println(three);
+        short four = 569;
+        System.out.println(four);
+        int five = -159;
+        System.out.println(five);
+        int six = 27897;
+        System.out.println(six);
+        byte seven = 67;
+        System.out.println(seven);
+    }
 }
