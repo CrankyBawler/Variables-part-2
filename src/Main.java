@@ -138,4 +138,3 @@ public class Main {
         System.out.println("Кристина теперь получает " + kristinaNewPay + " рублей. Годовой доход вырос на " + kristina + " рублей");
     }
 }
-
